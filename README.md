@@ -1,4 +1,5 @@
 ### Hi there 👋
+It looks like I found the special secret repository 😄!
 
 <!--
 **dan-petru/dan-petru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
